@@ -22,7 +22,6 @@ farm_sys_paper_code/
 │   ├── 06_optimization.R      # RF + NSGA-II -> Fig. 7, Table 6, SI Tables 4–6 (slow)
 │   ├── 07_district_clusters.R # Fig. 5 maps and cluster profiles
 │   ├── 08_1m5r_compliance.R   # 1M5R benchmark comparison (SI Fig. 5)
-│   └── 09_fertilizer_sources.R# share of N, P, K from compound vs straight fertilizers
 ├── exploratory/               # code removed from the main analysis (not used in the paper)
 ├── data/                      # <- put input files here (not included, see §2)
 └── outputs/                   # created automatically
