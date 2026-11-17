@@ -1,4 +1,4 @@
-# Drivers of rice yield, profit and N-use efficiency in the Mekong River Delta — analysis code
+# Drivers of rice yield, profit and N-use efficiency in the Mekong River Delta - analysis code
 
 This repository reproduces all statistical results, tables and figures of the paper from the cleaned
 farmer-survey data (~10,000 farmers; WS 2022–23, SA 2023, AW 2023).
